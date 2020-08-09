@@ -9,7 +9,7 @@
     <tbody>
         <tr height="60">
             <td colspan="2" height="60" width="225" style="text-align: center;">[[25]]</td>
-            <td colspan="2" width="160" style="text-align: center;">X</td>
+            <td colspan="2" width="160" style="text-align: center;"><h1>X</h1></td>
             <td width="143">
                 <p style="text-align: center;">Documento No<br> Valido como<br> Factura</p>
             </td>
