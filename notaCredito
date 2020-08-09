@@ -9,7 +9,7 @@
     <tbody>
         <tr height="20">
             <td colspan="2" rowspan="3" height="60" width="225" style="text-align: center;">[[2]]</td>
-            <td colspan="2" rowspan="2" width="160" style="text-align: center;">A</td>
+            <td colspan="2" rowspan="2" width="160" style="text-align: center;"><h1>A</h1></td>
             <td colspan="2" width="278" style="text-align: center;"><b>NOTA DE CREDITO</b></td>
         </tr>
         <tr height="20">
